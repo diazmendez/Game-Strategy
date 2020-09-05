@@ -1,0 +1,1 @@
+histogram -n 50 -N 1 -ng -pos <testp1p0/tiempos.dat  >testp1p0/hist.dat

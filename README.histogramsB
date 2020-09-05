@@ -1,0 +1,1 @@
+ histogram -n 100 -N 0 -ng -pos <testp.75p.75/seq_emp_sizes.dat >testp.75p.75/hist.seq_emp_sizes.dat

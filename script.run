@@ -1,0 +1,13 @@
+#time ./d.out 0   0   100000 testp0p0   .001 18293
+#time ./d.out 0.5 0   100000 testp.5p0  .001 18293
+#time ./d.out 1   0   100000 testp1p0   .001 18293
+#time ./d.out 0.5 0.5 100000 testp.5p.5 .001 18293
+#time ./d.out 1   0.5 100000 testp1p.5  .001 18293
+#time ./d.out 1   1   100000 testp1p1   .001 18293
+
+
+time ./d.out 0.75  0     100000 testp.75p0    .001 18293
+time ./d.out 0.75  0.5   100000 testp.75p.5   .001 18293
+time ./d.out 0.75  0.75  100000 testp.75p.75  .001 18293
+time ./d.out 1     0.75  100000 testp1p.75    .001 18293
+

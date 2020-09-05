@@ -1,0 +1,9 @@
+/home/rogelio/Instalaciones/LASSPTools.linux.tar.gz_FILES/bin/histogram -n 150 -N 1 -ng -pos   <testp0p0/jumps_pplay.dat   >testp0p0/hist.jumps_pplay.dat
+/home/rogelio/Instalaciones/LASSPTools.linux.tar.gz_FILES/bin/histogram -n 150 -N 1 -ng -pos  <testp.5p0/jumps_pplay.dat  >testp.5p0/hist.jumps_pplay.dat
+/home/rogelio/Instalaciones/LASSPTools.linux.tar.gz_FILES/bin/histogram -n 150 -N 1 -ng -pos <testp.75p0/jumps_pplay.dat >testp.75p0/hist.jumps_pplay.dat
+/home/rogelio/Instalaciones/LASSPTools.linux.tar.gz_FILES/bin/histogram -n 150 -N 1 -ng -pos   <testp1p0/jumps_pplay.dat   >testp1p0/hist.jumps_pplay.dat
+/home/rogelio/Instalaciones/LASSPTools.linux.tar.gz_FILES/bin/histogram -n 150 -N 1 -ng -pos  <testp.5p.5/jumps_pplay.dat  >testp.5p.5/hist.jumps_pplay.dat
+/home/rogelio/Instalaciones/LASSPTools.linux.tar.gz_FILES/bin/histogram -n 150 -N 1 -ng -pos <testp.75p.5/jumps_pplay.dat >testp.75p.5/hist.jumps_pplay.dat
+/home/rogelio/Instalaciones/LASSPTools.linux.tar.gz_FILES/bin/histogram -n 150 -N 1 -ng -pos   <testp1p.5/jumps_pplay.dat   >testp1p.5/hist.jumps_pplay.dat
+/home/rogelio/Instalaciones/LASSPTools.linux.tar.gz_FILES/bin/histogram -n 150 -N 1 -ng -pos <testp.75p.75/jumps_pplay.dat >testp.75p.75/hist.jumps_pplay.dat
+/home/rogelio/Instalaciones/LASSPTools.linux.tar.gz_FILES/bin/histogram -n 150 -N 1 -ng -pos   <testp1p.75/jumps_pplay.dat   >testp1p.75/hist.jumps_pplay.dat
